@@ -1,3 +1,5 @@
-.box1.box5 {
-    border: 5px solid black;
+.test-div {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('../dist/docs/assets/images/image-test.jpg');
 }
