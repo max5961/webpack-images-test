@@ -116,7 +116,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n\nconst image = document.createElement('img');\nimage.src = 'https://github.com/max5961/webpack-images-test/blob/7228a1e77d8320d141d99db6b50a36755c2b2439/dist/docs/assets/images/image-test.jpg';\ndocument.querySelector('#content').appendChild(image);\n\n//# sourceURL=webpack://webpack-images-test/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n\nconst image = document.createElement('img');\nimage.src = 'https://github.com/max5961/webpack-images-test/blob/7228a1e77d8320d141d99db6b50a36755c2b2439/dist/docs/assets/images/image-test.jpg?raw=true';\ndocument.querySelector('#content').appendChild(image);\n\n//# sourceURL=webpack://webpack-images-test/./src/index.js?");
 
 /***/ })
 
