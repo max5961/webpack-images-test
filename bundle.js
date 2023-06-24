@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log('hello world');\nconst img = document.createElement('img');\nimg.src = '../src/images/image-test.jpg';\ndocument.querySelector('body').appendChild(img);\n\n//# sourceURL=webpack://webpack-images-test/./src/index.js?");
+eval("const image = document.createElement('img');\nimage.src = '../dist/images/image-test.jpg';\ndocument.querySelector('body').appendChild(image);\n\n//# sourceURL=webpack://webpack-images-test/./src/index.js?");
 
 /***/ })
 
